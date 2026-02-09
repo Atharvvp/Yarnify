@@ -7,7 +7,7 @@
 
 > A premium, handcrafted e-commerce platform for luxury crochet products. Built with love using PHP, MySQL, and pure vanilla JavaScript.
 
-![Yarnify Preview](https://Yarnify.xo.je)
+![Yarnify Preview]([https://yarnify.xo.je])
 
 ---
 
